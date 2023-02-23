@@ -1,7 +1,7 @@
 ## 🥷 About Me
 
 I'm a Data Engineer with a background in Application Engineering, Data & Infrastructure Management and Automation at Amazon.
-Currently, a student at 🏫 Brunel University studying for a 🎓Master of Science in Data Science and Analytics.
+Currently, a student at 🏫 Brunel University studying 🎓Master of Science in Data Science and Analytics.
 
 
 ## 🛠 Skills
